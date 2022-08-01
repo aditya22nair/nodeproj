@@ -8,7 +8,7 @@
 * Clone the repository by running
   
   ```
-  git clone https://github.com/gokul1282/Travelogue.git
+  git clone https://github.com/aditya22nair/nodeproj
   ```
   
 * Move into the ```Travelogue``` directory.
